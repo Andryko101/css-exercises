@@ -1,0 +1,22 @@
+.num1{
+    background-color: pink;
+    color: black;
+}
+#num2{
+    color: blue;
+    font-size: 24px;
+    font-weight: bold;
+}
+.num3{
+    background-color: pink;
+    font-weight: bold;
+    font-size: 22px;
+}
+#num4{
+    background-color: rgb(100, 241, 100);
+    font-size: 18px;
+    font-weight: bold;
+}
+.num5{
+    background-color:pink;
+}
